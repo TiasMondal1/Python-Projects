@@ -26,3 +26,6 @@ print(type(age))
 height = 123.23
 print(height)
 print(type(height))
+
+
+#this is how I make changes online and then I pull them to the file in VSCode
