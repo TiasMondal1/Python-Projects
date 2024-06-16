@@ -1,0 +1,28 @@
+Big data tackles two problems at the same time:
+    1. store
+    2. process
+
+    of large volumes of data
+
+Problems:
+    volume
+    value
+    visualization
+    velocity of transactions
+    variety (structured, non structured)
+
+Speed and processing is a major thing even if volume is less/more
+
+My previous technology could not process more than 100 GB at a time hence I moved to Big Data.
+
+10K plus solutions under BIG DATA.
+
+IN Big Data, there are data layers for processing different technologies:
+    storage
+    processing
+    testing
+    visualization
+    automation
+    etc..etc...
+
+HADOOP : HDFS(GFS), MAPREDUCE(GMR)

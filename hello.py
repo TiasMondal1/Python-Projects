@@ -27,5 +27,40 @@ height = 123.23
 print(height)
 print(type(height))
 
+# This prints the length of string inside the two quotes
+print(len('This is how i ride')) 
 
-#this is how I make changes online and then I pull them to the file in VSCode
+str() #Converts anything into a string
+int() #Converts anything into an integer
+float() #Converts anything into float/decimal
+
+# When we use input() function, it returns a string by default
+
+# String and integer value cant be same
+# Integer and floating point value can be same
+
+# This means that we compare between them using == operator
+
+#round()  rounds off the numbers to nearest whole number
+
+weight = 75.64
+print(round(weight))
+
+# abs() gives us the absolute value of any number
+
+num = -9
+print(abs(num))
+
+#pow(base, exponent) calculates base raised to power of exponent
+
+result = pow(2,3)
+print(result)
+
+# The modulus % operator gives the remainder when divided by something else
+
+a = 10
+b = 3
+c = a%b
+print(c)
+
+# Booleans -> can be stored in a variable, but they cant be used as Variable names

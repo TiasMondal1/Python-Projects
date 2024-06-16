@@ -1,0 +1,30 @@
+20.01.2024
+
+programming
+maths/stats  =>  data_science
+AI
+ML 
+
+
+life cycle of data_science:
+    capture  -> unstructured / structured, data insertion, 
+    ETL
+    pre-process / process
+    analyse
+    communicate
+
+transform as per solution required - also give structure for unstructured data, removes reduncy
+
+
+
+
+programming -> python
+    python -> gfg practice, hackerearth, hackerearth
+
+libraries -> 
+    numpy
+    pandas
+    matplotlib
+    seaborn
+    scikit learn
+

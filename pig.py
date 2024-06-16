@@ -7,8 +7,8 @@ def roll():
     roll = random.randint(min_value, max_value)
     return roll
 
-#value = roll()
-#print(value)
+value = roll()
+print(value)
 
 while True:
     no_of_players = input("Enter the number of players(2-4): ")

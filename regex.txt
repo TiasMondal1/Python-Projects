@@ -1,0 +1,50 @@
+Topic                               \t Part 1                                    \t Part 2                                   
+Keyboard Shortcuts                  \t Master common shortcuts                    \t Explore advanced shortcut combinations    
+Task Manager                        \t Monitor and manage processes               \t Utilize Task Manager for troubleshooting  
+File Explorer Tips                  \t Efficient navigation and search            \t Customizing folders and views             
+System Restore                      \t Create and use restore points              \t Troubleshoot system issues with restore  
+Disk Cleanup                        \t Free up disk space                         \t Schedule automatic cleanups               
+Virtual Desktops                    \t Organize workspaces with multiple desktops\t Switching between virtual desktops        
+Power Options                       \t Optimize power settings for performance   \t Set up custom power plans                 
+Windows Snapping                    \t Snap windows for easy multitasking         \t Explore advanced snapping options         
+Remote Desktop                      \t Access your PC remotely                    \t Set up and configure Remote Desktop       
+Display Settings                    \t Adjust resolution and multiple displays   \t Customize display preferences             
+Night Light Mode                    \t Reduce blue light for better sleep        \t Schedule Night Light for specific times   
+Cortana                             \t Personalize Cortana settings                \t Use voice commands for productivity      
+Windows Update                      \t Manage and schedule updates                 \t Troubleshoot update-related issues        
+Customizing Start Menu              \t Arrange tiles and folders                    \t Customize Start Menu appearance          
+Quick Access                        \t Optimize Quick Access for file management \t Clear and customize Quick Access          
+Registry Editor                     \t Safely tweak system settings                 \t Create and import registry backups       
+Command Prompt                      \t Execute advanced commands                   \t Learn basic and advanced CMD commands    
+PowerShell                          \t Harness the power of PowerShell             \t Execute scripts for system management    
+Sticky Notes                        \t Utilize for quick notes and reminders       \t Sync Sticky Notes across devices         
+Windows Sandbox                     \t Test applications in a secure environment \t Enable and configure Windows Sandbox     
+God Mode                             \t Access all system settings in one folder  \t Create a God Mode shortcut               
+Snipping Tool and Snip & Sketch     \t Capture and annotate screenshots            \t Explore new features in Snip & Sketch    
+Bluetooth Troubleshooting           \t Resolve common Bluetooth issues             \t Update drivers and troubleshoot problems 
+Data Backup and Recovery            \t Set up regular backups                      \t Recover lost data using built-in tools   
+Security Settings                   \t Enable BitLocker for drive encryption       \t Configure Windows Defender settings      
+System File Checker (SFC)           \t Scan and repair corrupted system files      \t Use SFC to fix system stability issues   
+Privacy Settings                    \t Manage app permissions and data access      \t Review and adjust privacy settings       
+System Configuration (msconfig)      \t Optimize startup programs                  \t Troubleshoot boot and performance issues 
+Mouse and Touchpad Settings         \t Customize pointer speed and gestures        \t Troubleshoot common mouse issues         
+System Tray Icons                   \t Manage and customize system tray icons      \t Show or hide specific icons              
+Hyper-V                              \t Enable and use Hyper-V for virtualization   \t Create and manage virtual machines       
+Internet Connection Troubleshooting | \t Diagnose and fix network issues           \t Reset network settings and drivers       
+Windows Defender                    \t Configure and customize settings           \t Perform manual scans and updates         
+AutoPlay Settings                   \t Manage device and media autoplay settings   \t Disable or customize AutoPlay behavior   
+Game Bar                            \t Record and capture gameplay videos          \t Customize Game Bar settings              
+Command Line Networking Tools       \t Use tools like ping and ipconfig            \t Troubleshoot network connectivity issues 
+Emoji Keyboard                      \t Access and use emojis in Windows            \t Customize emoji keyboard preferences     
+System Fonts                        \t Install and manage fonts                    \t Troubleshoot font-related issues          
+Parental Controls                   \t Set up and manage parental controls         \t Monitor and restrict user activity       
+Windows Mobility Center             \t Access quick settings on laptops            \t Customize settings for mobile use        
+Windows To Go                       \t Create a portable Windows workspace        \t Run Windows from a USB drive             
+Action Center                       \t Manage notifications and quick actions     \t Customize Action Center settings         
+Task Scheduler                      \t Automate tasks and scripts                  \t Create and manage scheduled tasks        
+System Recovery Options             \t Access advanced recovery tools             \t Create a system repair disc              
+BitLocker to Go                     \t Encrypt USB drives with BitLocker           \t Unlock and manage encrypted drives       
+Windows Firewall                    \t Configure firewall settings                  \t Create inbound and outbound rules       
+DirectX Diagnostic Tool             \t Check DirectX version and troubleshoot     \t Gather information about system graphics 
+Windows Memory Diagnostic           \t Test and diagnose RAM issues                \t Schedule memory tests for reliability   
+Microsoft Store Troubleshooter      \t Fix common issues with the Store            \t Repair and reset Microsoft Store        
